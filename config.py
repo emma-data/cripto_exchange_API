@@ -1,0 +1,2 @@
+SYMBOLS = ['BTC/USD', 'ETH/USD']
+
